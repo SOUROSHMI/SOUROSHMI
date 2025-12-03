@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souroshmi Ghosh</h1>
 <h3 align="center">Computer Engineering student passionate about secure systems, AI, and ML.</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5464.jpg?semt=ais_hybrid&w=740&q=80">
+<img align="right" alt="coding" width="300" src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5464.jpg?semt=ais_hybrid&w=740&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souroshmi&label=Profile%20views&color=0e75b6&style=flat" alt="souroshmi" /> </p>
 
